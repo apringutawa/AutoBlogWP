@@ -1,0 +1,12 @@
+# clasp / node
+node_modules/
+package-lock.json
+.clasp.json
+
+# editors
+.DS_Store
+.idea/
+.vscode/
+
+# misc
+*.bak
